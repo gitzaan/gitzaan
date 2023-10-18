@@ -1,8 +1,36 @@
-- 👋 Hi, I’m @gitzaan
-- 👀 I’m interested in Android App Development
-- 🌱 I’m currently learning Android App Development
-- 💞️ I’m looking to collaborate on some projects
-- 📫 How to reach me - fowzaan.rasheed@gmail.com
+# Hi there 👋
+
+I'm a Computer Science student with a passion for AI/ML. I enjoy building AI/ML projects and exploring new technologies.
+
+## About Me
+
+- 🎓 I'm currently studying Computer Science
+- 🌱 I'm currently learning AI/ML
+- 💻 I love building AI/ML projects
+- 📫 How to reach me:  [Email](mailto:fowzaan.rasheed@gmail.com)
+
+
+## My Projects
+
+Here are some projects I've worked on:
+
+1. [Energy Consumption Measurement with Anomaly Detection]([https://github.com/yourusername/project1](https://github.com/gitzaan/Measure-Energy-Consumption-))
+2. [Transfer Learning for Customizable Web Filtering](https://github.com/yourusername/project2)
+3. [Vital Anomaly Detection System for a gym application](https://github.com/yourusername/project2)
+
+## Languages and Tools
+
+- Python
+- TensorFlow
+- Keras
+- Scikit-learn
+- Jupyter Notebook
+
+## Connect with Me
+
+- [LinkedIn](www.linkedin.com/in/fowzaan-rasheed-6ba094293)
+
+
 
 <!---
 gitzaan/gitzaan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
