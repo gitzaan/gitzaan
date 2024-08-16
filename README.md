@@ -5,7 +5,7 @@ I'm a Computer Science student with a passion for AI/ML. I enjoy building AI/ML 
 ## About Me
 
 - 🎓 I'm currently studying Computer Science
-- 🌱 I'm currently learning AI/ML
+- 🌱 I'm currently learning MERN stack
 - 💻 I love building AI/ML projects
 - 📫 How to reach me:  [Email](mailto:fowzaan.rasheed@gmail.com)
 
