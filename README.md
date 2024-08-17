@@ -23,7 +23,7 @@ Here are some of the key projects I've worked on:
     - Developed a gym workout app that leverages an API from RapidAPI to provide users with a variety of exercises tailored to their fitness goals.
 
 4.**[Customizable URL Classifier](https://github.com/gitzaan/Transfer-Learning-for-Customizable-Web-Filtering)**  
-    - Created a hybrid CNN/LSTM model for URL classification, achieving 87.4% accuracy by leveraging custom feature extraction methods to categorize URLs into various security-related categories.
+     - Created a hybrid CNN/LSTM model for URL classification, achieving 87.4% accuracy by leveraging custom feature extraction methods to categorize URLs into various security-related categories.
 
 5. **[Energy Consumption Predictor](https://github.com/gitzaan/Measure-Energy-Consumption-)**   
     - Implemented a machine learning model to forecast electricity production and detect anomalies using time-series analysis, achieving an R² score of 0.91 on a dataset with over 121,000 data points.
