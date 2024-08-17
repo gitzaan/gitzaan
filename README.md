@@ -13,20 +13,30 @@ I'm Fowzaan Rasheed, a passionate Computer Science student specializing in AI/ML
 
 Here are some of the key projects I've worked on:
 
-1. **[Energy Consumption Predictor with Anomaly Detection](https://github.com/gitzaan/Measure-Energy-Consumption-)**
-   - Developed a machine learning model to forecast electricity production and detect anomalies using time series data, achieving an R² score of 0.91.
+1. **[Travel Planner AI](https://github.com/gitzaan/AI-Travel-Itenary-Creator)**  
+    - Developed a Python-based travel planning tool integrating OpenAI, Google PaLM, and Google Maps APIs to generate detailed itineraries with visualized routes based on user preferences.
 
-2. **[Customizable URL Classifier](https://github.com/gitzaan/Customizable-URL-Classifier)**
-   - Built a URL classification system utilizing a hybrid CNN/LSTM model to categorize URLs, achieving an accuracy of 87.4%.
+2. **[Drug Interaction Checker](https://github.com/gitzaan/Drug-Interaction-Checking-Website)**  
+    - Built a Next.js-based website that allows users to check potential drug interactions, integrating MongoDB and Python for efficient data management and interaction results.
 
-3. **[NM_GAN Face Generation](https://github.com/gitzaan/NM_GAN_FaceGeneration)**
-   - Implemented a GAN-based model to generate realistic celebrity face images using the CelebA dataset.
+3. **[Gym Workout Tracker](https://github.com/gitzaan/Measure-Energy-Consumption-)**  
+    - Developed a gym workout app that leverages an API from RapidAPI to provide users with a variety of exercises tailored to their fitness goals.
 
-4. **[Dynamic Task Priority System](https://github.com/gitzaan/DynamicTaskPriority)**
-   - Created a real-time task prioritization system using ESP32 and FreeRTOS, allowing manual reordering of task priorities based on real-time factors.
+4.**[Customizable URL Classifier](https://github.com/gitzaan/Transfer-Learning-for-Customizable-Web-Filtering)**  
+    - Created a hybrid CNN/LSTM model for URL classification, achieving 87.4% accuracy by leveraging custom feature extraction methods to categorize URLs into various security-related categories.
 
-5. **[Gym Workout App (In Progress)]**
-   - Currently developing a gym workout app that leverages an API for exercise recommendations, likely using RapidAPI.
+5. **[Energy Consumption Predictor](https://github.com/gitzaan/Measure-Energy-Consumption-)**   
+    - Implemented a machine learning model to forecast electricity production and detect anomalies using time-series analysis, achieving an R² score of 0.91 on a dataset with over 121,000 data points.
+
+6. **[OffBoard UAV Path Planning](https://github.com/gitzaan/UAVPath)**   
+    -  Proposed an off-board path planning system using advanced image segmentation and DBSCAN-PP clustering to optimize UAV-BS deployment in disaster areas, enhancing efficiency and flight time.
+
+7. **[GAN Face Generator](https://github.com/gitzaan/NM_GAN_FaceGeneration)**   
+    - Developed a GAN-based model to generate realistic celebrity face images using the CelebA dataset. Leveraged adversarial training techniques to enhance the quality of synthetic images, addressing challenges like computational overhead and stability issues.
+
+8. **[DriveMind](https://github.com/Pronoy513/DynamicTaskPriority)**   
+   -  Developed a real-time task management system using an ESP32 processor, dynamically adjusting task priorities based on real-time factors. Implemented with FreeRTOS for efficient task handling simulated via Wokwi.
+
 
 ## Languages and Tools
 
